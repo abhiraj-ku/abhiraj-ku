@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @abhiraj-ku
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning bootstrap. i am done with intermediate html5 and css3
+- 🌱 I’m currently learning bootstrap. i am done with intermediate html5 ,css3 & javascript
 
 - 📫 How to reach me ...
+
 mail me at:abhirajabhi312@gmail.com
 
 <!---
