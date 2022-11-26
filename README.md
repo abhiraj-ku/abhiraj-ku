@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Kumar from Patna,Bihar ,India 🇮🇳
 - 👀 I’m interested in web development,open-source, blockchain & AR
-- 🌱 currently i am learning javascript & bootstrap. i am done with intermediate html5 & css3 . you can check my projects pinned below
+- 🌱 currently i am learning javascript & bootstrap. i am done with intermediate html5 & css3 .some projects are pinned below 🔻
 
 - 📫 How to reach me ......
  email: abhirajabhi312@gmail.com
