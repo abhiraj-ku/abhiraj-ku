@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development,open-source, blockchain & AR
 - 🌱 currently i am learning javascript & bootstrap. i am done with intermediate html5 & css3 . you can check my projects pinned below
 
-- 📫 How to reach me ...
+- 📫 How to reach me ......
  email: abhirajabhi312@gmail.com
  Linkedin: https://www.linkedin.com/in/abhishek-ko
  Website: https://linktr.ee/abhishek_kumar12
