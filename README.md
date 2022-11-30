@@ -2,10 +2,6 @@
 <h3 align="center">Aspiring Full-stack developer, cse undergrad</h3>
 
 
-- 🔭 I’m currently working on [resource list](https://github.com/abhiraj-ku/B-gone-website)
-
-- 👨‍💻 All of my projects are available at [https://github.com/abhiraj-ku](https://github.com/abhiraj-ku)
-
 - 📫 How to reach me **abhirajabhi312@gmail.com**
 
 - ⚡ Fun fact **sometimes weird, sometimes funny**
