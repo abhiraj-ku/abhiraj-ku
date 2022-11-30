@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">Technology Empowers You</h3>
+<h3 align="center">Aspiring Full-stack developer, cse undergrad</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiraj-ku&label=Profile%20views&color=0e75b6&style=flat" alt="abhiraj-ku" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiraj-ku" alt="abhiraj-ku" /></a> </p>
 
 - 🔭 I’m currently working on [resource list](https://github.com/abhiraj-ku/B-gone-website)
 
