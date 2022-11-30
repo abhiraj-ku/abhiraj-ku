@@ -4,11 +4,11 @@
 
 - 📫 How to reach me ......
 
-                 email: abhirajabhi312@gmail.com
+    email: abhirajabhi312@gmail.com
  
-                 Linkedin: https://www.linkedin.com/in/abhishek-ko
+    Linkedin: https://www.linkedin.com/in/abhishek-ko
  
-                 Website: https://linktr.ee/abhishek_kumar12
+    Website: https://linktr.ee/abhishek_kumar12
 
 <!---
 abhiraj-ku/abhiraj-ku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
