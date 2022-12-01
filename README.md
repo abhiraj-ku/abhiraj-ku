@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">Aspiring Full-stack developer, cse undergrad</h3>
+<h3 align="center">Aspiring Full-stack developer, cse undergrad from 🇮🇳</h3>
 
 
 - 📫 How to reach me **abhirajabhi312@gmail.com**
