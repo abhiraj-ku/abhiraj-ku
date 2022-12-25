@@ -21,5 +21,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiraj-ku&" alt="abhiraj-ku" /></p>
 
+<!-- No of visitors -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiraj-ku&label=Profile%20views&color=0e75b6&style=flat" alt="abhiraj-ku" /> </p>
+
 
 
