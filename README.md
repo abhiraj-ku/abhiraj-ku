@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **abhirajabhi312@gmail.com**
 
-- ⚡ Fun fact **sometimes weird, sometimes funny**
+- ⚡ Fun fact **sometimes weird, sometimes funny & enjoy reading History**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
