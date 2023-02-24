@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">Aspiring Full-stack developer | Believes in impact of Open Source | CSE undergrad from 🇮🇳</h3>
+<h3 align="center">Aspiring Full-stack developer | Open source Enthusiast | CSE undergrad from 🇮🇳</h3>
 
 
 - 📫 How to reach me **abhirajabhi312@gmail.com**
