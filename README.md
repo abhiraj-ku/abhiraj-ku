@@ -2,12 +2,13 @@
 <h3 align="center">Aspiring Full-stack developer | Open source Enthusiast | CSE undergrad from 🇮🇳</h3>
 
 
+
 - 📫 How to reach me **abhirajabhi312@gmail.com**
 
 - ⚡ Fun fact **sometimes weird, sometimes funny**
 
 
-## 🌐 Socials:
+## 🌐 Connect with me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-ko) 
 <a href="https://twitter.com/@abhirajabhi312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhirajabhi312" height="30" width="40" /></a>
 <a href="https://instagram.com/abhi1_6_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi1_6_9" height="30" width="40" /></a>
