@@ -2,7 +2,6 @@
 <h3 align="center">Aspiring Full-stack developer | Open source | CSE undergrad from 🇮🇳</h3>
 
 
-
 - 📫 How to reach me **abhirajabhi312@gmail.com**
 
 - ⚡ Fun fact **sometimes weird, sometimes funny**
