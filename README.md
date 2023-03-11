@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **abhirajabhi312@gmail.com**
 
-- ⚡ Fun fact **sometimes weird, sometimes funny**
+- ⚡ Fun fact **Html Is Not a Programming Language**
 
 
 ## 🌐 Connect with me on:
