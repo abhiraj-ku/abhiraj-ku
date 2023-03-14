@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **abhirajabhi312@gmail.com**
 
-- ⚡ Fun fact **Html Is Not a Programming Language**
+- ⚡ Fun fact **Html & Css are Not a Programming Language**
 
 
 ## 🌐 Connect with me on:
