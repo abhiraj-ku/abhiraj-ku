@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **abhirajabhi312@gmail.com**
 
-- ⚡ Fun fact **Html & Css are Not a Programming Language**
+- ⚡ Fun fact **HTML stands for Hypertext Markup Language but still it's not a programming Language**
 
 
 ## 🌐 Connect with me on:
