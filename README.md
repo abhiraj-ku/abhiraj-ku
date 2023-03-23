@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **abhirajabhi312@gmail.com**
 
-- ⚡ Fun fact   ** HTML stands for Hypertext Markup "Language"  **
+- ⚡ Fun fact   ** Why HTML stands for Hypertext Markup "Language"  ?**
 
 
 ## 🌐 Connect with me on:
