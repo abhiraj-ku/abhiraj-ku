@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **abhirajabhi312@gmail.com**
 
-- ⚡ Fun fact   ** Why HTML has "Language" in it**
+- ⚡ Fun fact   ** Tailwind CSS is not magic you still have to have knowledge of Pure CSS**
 
 ## 🌐 Connect with me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-ko) 
