@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">Postman STudent Expert |Front-end Developer | Open source | CSE undergrad from 🇮🇳</h3>
+<h3 align="center">Postman Student Expert |Front-end Developer | Open source | CSE undergrad from 🇮🇳</h3>
 
 
 - 📫 How to reach me **abhirajabhi312@gmail.com**
