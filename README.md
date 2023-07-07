@@ -6,7 +6,7 @@
 
 - ⚡ Fun fact   ** Tailwind CSS is not magic you still need to have the knowledge of Pure CSS**
 
-- Read My Blogs https://abhiwrites.substack.com/p/how-to-create-and-publish-a-package
+- Read My Blogs : https://abhiwrites.substack.com/
 
 ## 🌐 Connect with me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-ko) 
