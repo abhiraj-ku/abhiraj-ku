@@ -6,7 +6,7 @@
 
 - ⚡ Fun fact   ** Tailwind CSS is not magic you still need to have the knowledge of Pure CSS**
 
-- Read My Blogs : [Dev.to/abhishek](https://dev.to/abhishek_writes)
+- Read My Blogs : [Dev.to/const array ]([https://dev.to/abhishek_writes](https://dev.to/abhishek_writes/understanding-the-const-keyword-with-array-and-objects-in-javascript-29dc))
 
 ## 🌐 Connect with me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-ko) 
