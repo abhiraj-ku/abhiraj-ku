@@ -4,8 +4,6 @@
 
 - 📫 How to reach me **abhirajabhi312@gmail.com**
 
-- ⚡ Fun fact   ** Tailwind CSS is not magic you still need to have the knowledge of Pure CSS**
-
 - Read My Blogs : ([https://dev.to/abhishek_writes](https://dev.to/abhishek_writes/file-handling-101-in-node-js-4di))
 
 ## 🌐 Connect with me on:
