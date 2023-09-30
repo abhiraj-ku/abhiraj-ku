@@ -7,8 +7,14 @@
 - Read My Blogs : ([https://dev.to/abhishek_writes](https://dev.to/abhishek_writes/file-handling-101-in-node-js-4di))
 
 ## 🌐 Connect with me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-ko) 
-[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://twitter.com/abhirajabhi312) 
+<a href="https://linkedin.com/in/abhishek-ko" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://twitter.com/abhirajabhi312" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white" alt="Twitter">
+</a>
+
 
 
 # 💻 Tech Stack:
