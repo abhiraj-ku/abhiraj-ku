@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kumar| Aspiring Full Stack Developer | Open source & Devops | CSE undergrad from 🇮🇳</h1>
-<p align="center"> 👋 Greetings! Thanks for stopping by my profile. I am a passionate web development enthusiast transitioning into the world of DevOps. Currently, I am dedicated to refining my full-stack skills, with plans to progressively delve into DevOps practices and cloud technologies.</p> 
+<h1 align="center">Hi 👋, I'm Abhishek Kumar| Aspiring Full Stack Developer | Open source & DevOps | CSE undergrad from 🇮🇳</h1>
+<p align="center"> 👋 Greetings! Thanks for stopping by my profile. I am a web development enthusiast transitioning into the world of DevOps. Currently, I am dedicated to refining my full-stack skills, with plans to progressively delve into DevOps practices and cloud technologies.</p> 
 
 
 - 📫 How to reach me **abhirajabhi312@gmail.com**
