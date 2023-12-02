@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **abhirajabhi312@gmail.com**
 
-- Read My Blogs : ([https://dev.to/abhishek_writes](https://dev.to/abhishek_writes/file-handling-101-in-node-js-4di))
+- I write here ! : ([https://dev.to/abhishek_writes](https://dev.to/abhishek_writes/file-handling-101-in-node-js-4di))
 
 ## 🌐 Connect with me on:
 <a href="https://linkedin.com/in/abhishek-ko" target="_blank">
