@@ -1,21 +1,21 @@
 # Abhishek Kumar
 ## Backend Developer | DevOps Enthusiast
 
-👋 Welcome to my profile! I am a backend developer with a strong interest in DevOps practices and cloud technologies. I’m currently honing my backend skills while gradually expanding my knowledge in DevOps and cloud solutions.
-
-
-
-### Current Projects
-- **[SplitBhai](https://github.com/abhiraj-ku/splitBhai)**: A project aimed at simplifying expense splitting among friends and groups.
-
-### Blogs
-- **[Dev.to - Abhishek Writes](https://dev.to/abhishek_writes)**: Explore my blog where I share my leanings on backend development, DevOps, 
-
-
-
+👋 Welcome to my profile! I'm a backend developer passionate about cloud and devops. Currently, I'm honing my backend skills while expanding my knowledge in DevOps and cloud solutions.
 
 ---
-### Skills & Technologies
+
+### 🚀 Current Projects
+- **[SplitBhai](https://github.com/abhiraj-ku/splitBhai)**: A project simplifying expense splitting among friends and groups, with features like event planning, gamified debt settlement, and non-monetary bartering.
+
+---
+
+### 📝 Blogs
+- **[Dev.to - Abhishek Writes](https://dev.to/abhishek_writes)**: Explore my blog where I share my learnings.
+
+---
+
+### ⚙️ Skills & Technologies
 
 #### Languages
 <p align="left">
@@ -53,7 +53,6 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
   </a>
-
 </p>
 
 ---
@@ -66,7 +65,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj-ku&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
     </td>
     <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=abhiraj-ku&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">      
+      <img src="https://github-readme-stats.vercel.app/api?username=abhiraj-ku&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">      
     </td>
   </tr>
   <tr>
@@ -75,7 +74,6 @@
     </td>
   </tr>
 </table>
-
 
 [![Visits](https://visitcount.itsvg.in/api?id=abhiraj-ku&icon=0&color=0)](https://visitcount.itsvg.in)
 
