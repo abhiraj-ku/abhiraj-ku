@@ -23,7 +23,7 @@
 
 #### Tools & Services
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,aws,redis,mongodb,postgres,docker,postman,bash,linux,git&perline=7)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,postgres,docker,aws,postman,bash,linux,git&perline=6)
 
 ---
 
