@@ -1,7 +1,7 @@
 # Abhishek Kumar
 ## Backend Developer | DevOps Enthusiast
 
-👋 Welcome to my profile! I'm a backend developer passionate about cloud and devops. Currently, I'm honing my backend skills while expanding my knowledge in DevOps and cloud solutions.
+👋 Welcome to my profile! I'm a backend developer passionate about cloud and devops. Currently, I'm honing my backend skills while expanding my knowledge in DevOps and cloud domain.
 
 ---
 
