@@ -5,10 +5,6 @@
 
 ---
 
-### 🚀 Current Projects (under production)
-- **[SplitBhai](https://github.com/abhiraj-ku/splitBhai)**: A project simplifying expense splitting among friends and groups, with features like group saving,debt settlement using non-monetary bartering based on indivisual's capacity and more.
-
----
 
 ### 📝 Blogs
 - **[Dev.to - Abhishek Writes](https://dev.to/abhishek_writes)**: Explore my blog where I share my learnings.
