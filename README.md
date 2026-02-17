@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiraj-ku&theme=onedark&hide_border=false" alt="GitHub Streak">
+      <img src="https://streak-stats.demolab.com?user=abhiraj-ku&theme=onedark" alt="GitHub Streak">
     </td>
   </tr>
 </table>
