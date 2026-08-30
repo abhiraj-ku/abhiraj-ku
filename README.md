@@ -1,56 +1,63 @@
 # Abhishek Kumar
-## Backend Developer | DevOps Enthusiast
-
-👋 Welcome to my profile! I'm a backend developer passionate about cloud and devops. Currently, I'm honing my backend skills while expanding my knowledge in DevOps and cloud domain.
+### Backend Engineer | Cloud | AI(not ml !) | DevOps Enthusiast
 
 ---
 
+### 🌐 Connect With Me
 
-## 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-ko)
-[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://twitter.com/abhirajabhi312)
-
----
-
-### 📝 Blogs
-- **[My thoughtSpace](https://medium.com/@kumarabhishekk)**: Explore my blog where I share my learnings.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-ko)
+[![X / Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/abhirajabhi312)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@kumarabhishekk)
 
 ---
 
-### ⚙️ Skills & Technologies
+### 🛠️ Tech Stack & Tooling
 
-#### Languages
+**Languages**  
+![Languages](https://skillicons.dev/icons?i=go,javascript,cpp,bash)
 
-![My Skills](https://skillicons.dev/icons?i=javascript,cpp,go)
+**Backend & Frameworks**  
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
 
-#### Tools & Services
+**Databases & Caching**  
+![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis)
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,postgres,docker,aws,postman,bash,linux,git&perline=6)
-
----
-
-# 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj-ku&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=abhiraj-ku&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">      
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://streak-stats.demolab.com?user=abhiraj-ku&theme=onedark" alt="GitHub Streak">
-    </td>
-  </tr>
-</table>
-
-[![Visits](https://visitcount.itsvg.in/api?id=abhiraj-ku&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+**DevOps, Cloud & Tools**  
+![DevOps & Cloud](https://skillicons.dev/icons?i=docker,aws,linux,git,postman&perline=6)
 
 ---
 
-Thank you for visiting my profile! I look forward to connecting and collaborating on exciting projects.
+### ✍️ Technical Writing & Insights
+
+* **[My thoughtSpace](https://medium.com/@kumarabhishekk)** — Deep dives into backend architecture, database optimization, distributed systems, and DevOps best practices.
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj-ku&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=abhiraj-ku&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com?user=abhiraj-ku&theme=onedark" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  
+  [![Visits](https://visitcount.itsvg.in/api?id=abhiraj-ku&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  *Open to impactful backend engineering roles, open-source collaborations, and tech discussions.*
+</div>
