@@ -23,8 +23,7 @@
 ![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis)
 
 **DevOps, Cloud & Tools**  
-![DevOps & Cloud](https://skillicons.dev/icons?i=docker,aws,linux,git,postman&perline=6)
-
+![DevOps & Cloud](https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,postman&perline=6)
 ---
 
 ### ✍️ Technical Writing & Insights
