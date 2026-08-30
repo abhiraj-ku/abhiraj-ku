@@ -13,7 +13,7 @@
 ---
 
 ### 📝 Blogs
-- **[Medium here ](https://medium.com/@kumarabhishekk)**: Explore my blog where I share my learnings.
+- **[My thoughtSpace](https://medium.com/@kumarabhishekk)**: Explore my blog where I share my learnings.
 
 ---
 
