@@ -1,6 +1,8 @@
 # Abhishek Kumar
 ### Backend Engineer | Cloud | AI(not ml !) | DevOps Enthusiast
 
+Tinkering with golang internals , databases internals , kubernetes internals, RAG and devops
+
 ---
 
 ### 🌐 Connect With Me
