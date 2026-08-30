@@ -13,7 +13,7 @@
 ---
 
 ### 📝 Blogs
-- **[Dev.to - Abhishek Writes](https://dev.to/abhishek_writes)**: Explore my blog where I share my learnings.
+- **[Medium here ](https://medium.com/@kumarabhishekk)**: Explore my blog where I share my learnings.
 
 ---
 
