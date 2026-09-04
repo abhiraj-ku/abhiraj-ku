@@ -5,6 +5,10 @@ Tinkering with golang internals , databases internals , kubernetes internals, RA
 
 ---
 
+### Currently building - [MoLang - toy programming language from scratch in go](https://github.com/abhiraj-ku/MoLang)
+
+---
+
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-ko)
