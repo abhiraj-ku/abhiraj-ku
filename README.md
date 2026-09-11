@@ -5,7 +5,10 @@ Tinkering with golang internals , databases internals , kubernetes internals, RA
 
 ---
 
-### Currently building - [MoLang - toy programming language from scratch in go](https://github.com/abhiraj-ku/MoLang)
+### Currently building
+
+- [MoLang - toy programming language](https://github.com/abhiraj-ku/MoLang)
+- [Geki - pgbouncer with layer 7 proxy](https://github.com/abhiraj-ku/Geki)
 
 ---
 
@@ -44,7 +47,7 @@ Tinkering with golang internals , databases internals , kubernetes internals, RA
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj-ku&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj-ku&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Lan[...]
       </td>
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=abhiraj-ku&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
