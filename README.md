@@ -33,6 +33,7 @@ Tinkering with golang internals , databases internals , kubernetes internals, RA
 
 **DevOps, Cloud & Tools**  
 ![DevOps & Cloud](https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,postman&perline=6)
+
 ---
 
 ### ✍️ Technical Writing & Insights
@@ -47,15 +48,26 @@ Tinkering with golang internals , databases internals , kubernetes internals, RA
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj-ku&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Lan[...]
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj-ku&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800"
+          alt="Top Languages"
+          height="180"
+        />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=abhiraj-ku&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=abhiraj-ku&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github&cache_seconds=1800"
+          alt="GitHub Stats"
+          height="180"
+        />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com?user=abhiraj-ku&theme=onedark" alt="GitHub Streak" />
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com?user=abhiraj-ku&theme=tokyonight&hide_border=true"
+          alt="GitHub Streak"
+        />
       </td>
     </tr>
   </table>
