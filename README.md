@@ -44,32 +44,22 @@ Tinkering with golang internals , databases internals , kubernetes internals, RA
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj-ku&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800"
-          alt="Top Languages"
-          height="180"
-        />
-      </td>
-      <td align="center">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=abhiraj-ku&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github&cache_seconds=1800"
-          alt="GitHub Stats"
-          height="180"
-        />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img
-          src="https://github-readme-streak-stats.herokuapp.com?user=abhiraj-ku&theme=tokyonight&hide_border=true"
-          alt="GitHub Streak"
-        />
-      </td>
-    </tr>
-  </table>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=abhiraj-ku&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</div>
+
+
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhiraj-ku&theme=tokyonight"
+    alt="Repos per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhiraj-ku&theme=tokyonight"
+    alt="Stats"
+  />
 </div>
 
 
